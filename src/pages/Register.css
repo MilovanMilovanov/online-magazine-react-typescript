@@ -1,0 +1,82 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.register-form-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.register-form-wrapper {
+  width: 35%;
+  text-align: center;
+}
+
+@media screen and (max-width: 1024px) {
+  .register-form-wrapper {
+    width: 70%;
+  }
+}
+
+.register-form {
+  padding: 0 2.5rem;
+}
+
+.register-form::after {
+  content: "";
+  display: block;
+  width: 70%;
+  border: 1px solid #cccccc;
+  margin: 1.3rem auto;
+}
+
+.register-form-heading {
+  font-size: 3rem;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: 900;
+  text-transform: capitalize;
+  margin-bottom: 1rem;
+}
+
+.register-input {
+  display: block;
+  width: 100%;
+  padding: 0.7rem 0.3rem;
+}
+
+.register-input-button {
+  display: block;
+  width: 100%;
+  padding: 0.7rem 0.3rem;
+  margin-bottom: 0.9rem;
+  background-color: #000;
+  color: #fff;
+  cursor: pointer;
+}
+
+.register-paragraph {
+  font-weight: 700;
+}
+.register-link {
+  color: #d27ff9;
+}
+
+.register-error-active {
+  visibility: visible;
+  color: #ff0000;
+  margin-bottom: 0.8rem;
+  font-size: 0.6rem;
+  text-align: start;
+}
+
+.register-error.not-active {
+  visibility: hidden;
+  margin-bottom: 0.8rem;
+  font-size: 0.6rem;
+}

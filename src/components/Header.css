@@ -1,0 +1,82 @@
+.sale-banner {
+  padding: 0.625rem 0;
+  text-align: center;
+  background-color: #AF1DF5;
+}
+
+.sale-banner-text {
+  color: #fff;
+}
+
+.navbar {
+  height: 3.75rem;
+  border-bottom: 0.125rem solid #74747424;
+  box-shadow: 0 0.188rem 0.25rem -0.313rem #0003, 0 0.313rem 0.75rem #cfcfcf24, 0 0rem 1.125rem #d1d1d11f;
+}
+
+.wrapper-header {
+  max-width: 67.5rem;
+  margin: 0 auto;
+}
+
+.navbar-inner {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 100%;
+}
+
+.categories-left {
+  display: inline-block;
+  padding: 0.938rem;
+}
+
+.categories-right {
+  display: inline-block;
+  padding: 0.938rem;
+}
+
+.categories-space {
+  padding-left: 0.938rem;
+  display: inline-block;
+}
+
+.icon-container {
+  width: 1.125rem;
+}
+
+.brand {
+  height: 100%;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #000;
+  border-bottom: 0.063rem solid transparent;
+  transition: all 0.4s;
+  position: relative;
+}
+
+.nav-link::after {
+  content: '';
+  position: absolute;
+  bottom: -0.188rem;
+  left: 0;
+  background-color: #AF1DF5;
+  height: 0.063rem;
+  width: 0;
+  transition: all 0.4s;
+}
+
+.nav-link:hover::after {
+  width: 100%;
+}
+
+.icon-link {
+  text-decoration: none;
+  color: #000;
+}
+
+.icon-link:hover {
+  color: #AF1DF5;
+}

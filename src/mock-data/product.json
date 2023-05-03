@@ -1,0 +1,248 @@
+{
+  "configurable_product_options_selection": {
+    "media_gallery": [],
+    "options_available_for_selection": [
+      {
+        "attribute_code": "color",
+        "option_value_uids": ["Y29uZmlndXJhYmxlLzkzLzM0"],
+        "__typename": "ConfigurableOptionAvailableForSelection"
+      },
+      {
+        "attribute_code": "size",
+        "option_value_uids": [
+          "Y29uZmlndXJhYmxlLzE0Ny82Ng==",
+          "Y29uZmlndXJhYmxlLzE0Ny82NQ==",
+          "Y29uZmlndXJhYmxlLzE0Ny82NA==",
+          "Y29uZmlndXJhYmxlLzE0Ny82Mw=="
+        ],
+        "__typename": "ConfigurableOptionAvailableForSelection"
+      }
+    ],
+    "thumbnail": {
+      "url": "https://dev.hudsonstore.com/media/catalog/product/placeholder/default/placeholder_test_2.jpg",
+      "position": null,
+      "disabled": null,
+      "label": null,
+      "__typename": "ProductImage"
+    },
+    "small_image": {
+      "url": "https://dev.hudsonstore.com/media/catalog/product/placeholder/default/placeholder_test_1.jpg",
+      "position": null,
+      "disabled": null,
+      "label": null,
+      "__typename": "ProductImage"
+    },
+    "image": {
+      "url": "https://dev.hudsonstore.com/media/catalog/product/placeholder/default/placeholder_test.jpg",
+      "position": null,
+      "disabled": null,
+      "label": null,
+      "__typename": "ProductImage"
+    },
+    "variant": null,
+    "__typename": "ConfigurableProductOptionsSelection"
+  },
+  "price_range": {
+    "maximum_price": {
+      "final_price": { "currency": "EUR", "value": 72, "__typename": "Money" },
+      "regular_price": {
+        "currency": "EUR",
+        "value": 120,
+        "__typename": "Money"
+      },
+      "__typename": "ProductPrice"
+    },
+    "minimum_price": {
+      "final_price": { "currency": "EUR", "value": 72, "__typename": "Money" },
+      "regular_price": {
+        "currency": "EUR",
+        "value": 120,
+        "__typename": "Money"
+      },
+      "__typename": "ProductPrice"
+    },
+    "__typename": "PriceRange"
+  },
+  "thumbnail": {
+    "url": "https://dev.hudsonstore.com/media/catalog/product/placeholder/default/placeholder_test_2.jpg",
+    "position": null,
+    "disabled": null,
+    "label": "Armani Exchange Icon Logo Wool Sweater",
+    "__typename": "ProductImage"
+  },
+  "small_image": {
+    "url": "https://dev.hudsonstore.com/media/catalog/product/placeholder/default/placeholder_test_1.jpg",
+    "position": null,
+    "disabled": null,
+    "label": "Armani Exchange Icon Logo Wool Sweater",
+    "__typename": "ProductImage"
+  },
+  "image": {
+    "url": "https://dev.hudsonstore.com/media/catalog/product/placeholder/default/placeholder_test.jpg",
+    "position": null,
+    "disabled": null,
+    "label": "Armani Exchange Icon Logo Wool Sweater",
+    "__typename": "ProductImage"
+  },
+  "__typename": "ConfigurableProduct",
+  "uid": "MTk5OTQ=",
+  "sku": "8NYM7B-YMH4Z",
+  "name": "Armani Exchange Icon Logo Wool Sweater",
+  "stock_status": "IN_STOCK",
+  "only_x_left_in_stock": null,
+  "url_key": "buy-15-ax-icon-logo-wool-sweater-8nym7b-ymh4z",
+  "url_rewrites": [
+    {
+      "url": "buy-15-ax-icon-logo-wool-sweater-8nym7b-ymh4z.html",
+      "__typename": "UrlRewrite"
+    },
+    {
+      "url": "women/clothing/jumper-and-cartigans/buy-15-ax-icon-logo-wool-sweater-8nym7b-ymh4z.html",
+      "__typename": "UrlRewrite"
+    },
+    {
+      "url": "women/buy-15-ax-icon-logo-wool-sweater-8nym7b-ymh4z.html",
+      "__typename": "UrlRewrite"
+    },
+    {
+      "url": "women/clothing/buy-15-ax-icon-logo-wool-sweater-8nym7b-ymh4z.html",
+      "__typename": "UrlRewrite"
+    }
+  ],
+  "categories": [
+    {
+      "uid": "Mw==",
+      "name": "Women",
+      "url_suffix": ".html",
+      "url_path": "women",
+      "breadcrumbs": null,
+      "__typename": "CategoryTree"
+    },
+    {
+      "uid": "NA==",
+      "name": "Clothing",
+      "url_suffix": ".html",
+      "url_path": "women/clothing",
+      "breadcrumbs": [
+        {
+          "category_name": "Women",
+          "category_url_path": "women",
+          "__typename": "Breadcrumb"
+        }
+      ],
+      "__typename": "CategoryTree"
+    },
+    {
+      "uid": "NQ==",
+      "name": "Jumpers & Cardigans",
+      "url_suffix": ".html",
+      "url_path": "women/clothing/jumper-and-cartigans",
+      "breadcrumbs": [
+        {
+          "category_name": "Women",
+          "category_url_path": "women",
+          "__typename": "Breadcrumb"
+        },
+        {
+          "category_name": "Clothing",
+          "category_url_path": "women/clothing",
+          "__typename": "Breadcrumb"
+        }
+      ],
+      "__typename": "CategoryTree"
+    }
+  ],
+  "rating_summary": 0,
+  "review_count": 0,
+  "reviews": { "items": [], "__typename": "ProductReviews" },
+  "media_gallery": [],
+  "meta_description": "Ax Icon Logo Wool Sweater",
+  "meta_keyword": "Ax Icon Logo Wool Sweater",
+  "meta_title": "Ax Icon Logo Wool Sweater",
+  "description": { "html": "", "__typename": "ComplexTextValue" },
+  "short_description": {
+    "html": "Mock neck jumper in Merino wool <BR>Contrasting oversized logo <BR>Ribbed trim <BR>Fabric: 100% virgin wool",
+    "__typename": "ComplexTextValue"
+  },
+  "options_container": "container2",
+  "special_to_date": null,
+  "configurable_options": [
+    {
+      "attribute_code": "color",
+      "attribute_uid": "OTM=",
+      "label": "Colour",
+      "position": 0,
+      "uid": "Y29uZmlndXJhYmxlLzE5OTk0Lzkz",
+      "use_default": false,
+      "values": [
+        {
+          "label": "Grey",
+          "swatch_data": {
+            "value": "#808080",
+            "__typename": "ColorSwatchData"
+          },
+          "uid": "Y29uZmlndXJhYmxlLzkzLzM0",
+          "__typename": "ConfigurableProductOptionsValues"
+        }
+      ],
+      "__typename": "ConfigurableProductOptions"
+    },
+    {
+      "attribute_code": "size",
+      "attribute_uid": "MTQ3",
+      "label": "Size",
+      "position": 1,
+      "uid": "Y29uZmlndXJhYmxlLzE5OTk0LzE0Nw==",
+      "use_default": false,
+      "values": [
+        {
+          "label": "XS",
+          "swatch_data": null,
+          "uid": "Y29uZmlndXJhYmxlLzE0Ny82Mw==",
+          "__typename": "ConfigurableProductOptionsValues"
+        },
+        {
+          "label": "S",
+          "swatch_data": null,
+          "uid": "Y29uZmlndXJhYmxlLzE0Ny82NA==",
+          "__typename": "ConfigurableProductOptionsValues"
+        },
+        {
+          "label": "M",
+          "swatch_data": null,
+          "uid": "Y29uZmlndXJhYmxlLzE0Ny82NQ==",
+          "__typename": "ConfigurableProductOptionsValues"
+        },
+        {
+          "label": "L",
+          "swatch_data": null,
+          "uid": "Y29uZmlndXJhYmxlLzE0Ny82Ng==",
+          "__typename": "ConfigurableProductOptionsValues"
+        }
+      ],
+      "__typename": "ConfigurableProductOptions"
+    }
+  ],
+  "all_size_color_options": [
+    {
+      "color_uid": "Y29uZmlndXJhYmxlLzkzLzM0",
+      "size_uid": "Y29uZmlndXJhYmxlLzE0Ny82Ng==",
+      "__typename": "AllConfigurableProductOptions"
+    },
+    {
+      "color_uid": "Y29uZmlndXJhYmxlLzkzLzM0",
+      "size_uid": "Y29uZmlndXJhYmxlLzE0Ny82NQ==",
+      "__typename": "AllConfigurableProductOptions"
+    },
+    {
+      "color_uid": "Y29uZmlndXJhYmxlLzkzLzM0",
+      "size_uid": "Y29uZmlndXJhYmxlLzE0Ny82NA==",
+      "__typename": "AllConfigurableProductOptions"
+    },
+    {
+      "color_uid": "Y29uZmlndXJhYmxlLzkzLzM0",
+      "size_uid": "Y29uZmlndXJhYmxlLzE0Ny82Mw==",
+      "__typename": "AllConfigurableProductOptions"
+    }
+  ]
+}

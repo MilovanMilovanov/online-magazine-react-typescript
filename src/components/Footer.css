@@ -1,0 +1,108 @@
+.footer {
+  background-color: black;
+}
+
+.subscription-area {
+  background-color: #af1ef5;
+  color: #ffffff;
+  display: flex;
+  padding: 1.25rem;
+}
+
+.subscription-text {
+  width: 60%;
+  margin: 1.25rem;
+}
+
+.button {
+  margin: 0;
+  background-color: black;
+  color: white;
+  text-transform: uppercase;
+  padding: 0.625rem 1.25rem;
+  border-radius: 5%;
+  cursor: pointer;
+}
+
+.subscribe-btn {
+  padding-top: 3.125rem;
+  padding-left: 18.75rem;
+}
+
+.main-section {
+  display: flex;
+  background-color: #000000;
+  color: white;
+  margin: 2.5rem;
+  justify-content: space-around;
+}
+
+.copyrightsAndPayments {
+  display: flex;
+  background-color: #252525;
+  color: #8e8e8e;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.938rem;
+}
+
+.links {
+  margin: 1.875rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.link {
+  margin-top: 1.25rem;
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  cursor: pointer;
+  color: #af1ef5;
+}
+
+.iconsAndSocials {
+  padding-top: 4.063rem;
+  padding-left: 12.5rem;
+}
+
+.icon {
+  background-color: white;
+  border-radius: 0.625rem;
+}
+
+.parent-icons {
+  display: flex;
+}
+
+.par {
+  width: 8.75rem;
+  text-align: center;
+}
+
+.socials {
+  padding-left: 1.563rem;
+  cursor: pointer;
+}
+
+.cpy {
+  padding-left: 1.25rem;
+}
+
+.cPay {
+  padding-right: 1.25rem;
+}
+
+.basicTxt {
+  text-align: left;
+  margin-top: 0.625rem;
+}
+
+h3 {
+  margin-bottom: 0.938rem;
+}
+.heading {
+  text-align: start;
+}

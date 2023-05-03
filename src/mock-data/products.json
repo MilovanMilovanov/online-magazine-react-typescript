@@ -1,0 +1,772 @@
+[
+  {
+    "__typename": "ConfigurableProduct",
+    "uid": "MTkxNjk=",
+    "sku": "6KYMAC-YJ3BZ",
+    "name": "Armani Exchange Elasticated Crop Top",
+    "stock_status": "IN_STOCK",
+    "only_x_left_in_stock": null,
+    "on_sale": true,
+    "thumbnail": {
+      "url": "https://dev.hudsonstore.com/media/catalog/product/placeholder/default/placeholder_test_2.jpg",
+      "position": null,
+      "disabled": null,
+      "label": "Armani Exchange Elasticated Crop Top",
+      "__typename": "ProductImage"
+    },
+    "url_key": "buy-10-ax-elasticated-crop-top-6kymac-yj3bz",
+    "url_rewrites": [
+      {
+        "url": "buy-10-ax-elasticated-crop-top-6kymac-yj3bz.html",
+        "__typename": "UrlRewrite"
+      },
+      {
+        "url": "women/clothing/jumper-and-cartigans/buy-10-ax-elasticated-crop-top-6kymac-yj3bz.html",
+        "__typename": "UrlRewrite"
+      },
+      {
+        "url": "women/buy-10-ax-elasticated-crop-top-6kymac-yj3bz.html",
+        "__typename": "UrlRewrite"
+      },
+      {
+        "url": "women/clothing/buy-10-ax-elasticated-crop-top-6kymac-yj3bz.html",
+        "__typename": "UrlRewrite"
+      }
+    ],
+    "price_range": {
+      "maximum_price": {
+        "final_price": {
+          "currency": "EUR",
+          "value": 30,
+          "__typename": "Money"
+        },
+        "regular_price": {
+          "currency": "EUR",
+          "value": 50,
+          "__typename": "Money"
+        },
+        "__typename": "ProductPrice"
+      },
+      "minimum_price": {
+        "final_price": {
+          "currency": "EUR",
+          "value": 30,
+          "__typename": "Money"
+        },
+        "regular_price": {
+          "currency": "EUR",
+          "value": 50,
+          "__typename": "Money"
+        },
+        "__typename": "ProductPrice"
+      },
+      "__typename": "PriceRange"
+    }
+  },
+  {
+    "__typename": "ConfigurableProduct",
+    "uid": "MTkxNjc=",
+    "sku": "6KYM72-YJ3NZ",
+    "name": "Armani Exchange 1991 Hoodie",
+    "stock_status": "IN_STOCK",
+    "only_x_left_in_stock": null,
+    "on_sale": false,
+    "thumbnail": {
+      "url": "https://dev.hudsonstore.com/media/catalog/product/placeholder/default/placeholder_test_2.jpg",
+      "position": null,
+      "disabled": null,
+      "label": "Armani Exchange 1991 Hoodie",
+      "__typename": "ProductImage"
+    },
+    "url_key": "buy-7-ax-1991-hoodie-6kym72-yj3nz",
+    "url_rewrites": [
+      {
+        "url": "buy-7-ax-1991-hoodie-6kym72-yj3nz.html",
+        "__typename": "UrlRewrite"
+      },
+      {
+        "url": "women/clothing/jumper-and-cartigans/buy-7-ax-1991-hoodie-6kym72-yj3nz.html",
+        "__typename": "UrlRewrite"
+      },
+      {
+        "url": "sale/buy-7-ax-1991-hoodie-6kym72-yj3nz.html",
+        "__typename": "UrlRewrite"
+      },
+      {
+        "url": "women/buy-7-ax-1991-hoodie-6kym72-yj3nz.html",
+        "__typename": "UrlRewrite"
+      },
+      {
+        "url": "women/clothing/buy-7-ax-1991-hoodie-6kym72-yj3nz.html",
+        "__typename": "UrlRewrite"
+      }
+    ],
+    "price_range": {
+      "maximum_price": {
+        "final_price": {
+          "currency": "EUR",
+          "value": 72,
+          "__typename": "Money"
+        },
+        "regular_price": {
+          "currency": "EUR",
+          "value": 120,
+          "__typename": "Money"
+        },
+        "__typename": "ProductPrice"
+      },
+      "minimum_price": {
+        "final_price": {
+          "currency": "EUR",
+          "value": 72,
+          "__typename": "Money"
+        },
+        "regular_price": {
+          "currency": "EUR",
+          "value": 120,
+          "__typename": "Money"
+        },
+        "__typename": "ProductPrice"
+      },
+      "__typename": "PriceRange"
+    }
+  },
+  {
+    "__typename": "ConfigurableProduct",
+    "uid": "MTkxNjA=",
+    "sku": "6KYM13-YJ6RZ",
+    "name": "Armani Exchange Fleece Hoodie",
+    "stock_status": "IN_STOCK",
+    "only_x_left_in_stock": null,
+    "on_sale": true,
+    "thumbnail": {
+      "url": "https://dev.hudsonstore.com/media/catalog/product/placeholder/default/placeholder_test_2.jpg",
+      "position": null,
+      "disabled": null,
+      "label": "Armani Exchange Fleece Hoodie",
+      "__typename": "ProductImage"
+    },
+    "url_key": "buy-7-ax-fleece-hoodie-6kym13-yj6rz",
+    "url_rewrites": [
+      {
+        "url": "buy-7-ax-fleece-hoodie-6kym13-yj6rz.html",
+        "__typename": "UrlRewrite"
+      },
+      {
+        "url": "women/clothing/jumper-and-cartigans/buy-7-ax-fleece-hoodie-6kym13-yj6rz.html",
+        "__typename": "UrlRewrite"
+      },
+      {
+        "url": "women/buy-7-ax-fleece-hoodie-6kym13-yj6rz.html",
+        "__typename": "UrlRewrite"
+      },
+      {
+        "url": "women/clothing/buy-7-ax-fleece-hoodie-6kym13-yj6rz.html",
+        "__typename": "UrlRewrite"
+      }
+    ],
+    "price_range": {
+      "maximum_price": {
+        "final_price": {
+          "currency": "EUR",
+          "value": 84,
+          "__typename": "Money"
+        },
+        "regular_price": {
+          "currency": "EUR",
+          "value": 140,
+          "__typename": "Money"
+        },
+        "__typename": "ProductPrice"
+      },
+      "minimum_price": {
+        "final_price": {
+          "currency": "EUR",
+          "value": 84,
+          "__typename": "Money"
+        },
+        "regular_price": {
+          "currency": "EUR",
+          "value": 140,
+          "__typename": "Money"
+        },
+        "__typename": "ProductPrice"
+      },
+      "__typename": "PriceRange"
+    }
+  },
+  {
+    "__typename": "ConfigurableProduct",
+    "uid": "MTk5OTQ=",
+    "sku": "8NYM7B-YMH4Z",
+    "name": "Armani Exchange Icon Logo Wool Sweater",
+    "stock_status": "IN_STOCK",
+    "only_x_left_in_stock": null,
+    "on_sale": true,
+    "thumbnail": {
+      "url": "https://dev.hudsonstore.com/media/catalog/product/placeholder/default/placeholder_test_2.jpg",
+      "position": null,
+      "disabled": null,
+      "label": "Armani Exchange Icon Logo Wool Sweater",
+      "__typename": "ProductImage"
+    },
+    "url_key": "buy-15-ax-icon-logo-wool-sweater-8nym7b-ymh4z",
+    "url_rewrites": [
+      {
+        "url": "buy-15-ax-icon-logo-wool-sweater-8nym7b-ymh4z.html",
+        "__typename": "UrlRewrite"
+      },
+      {
+        "url": "women/clothing/jumper-and-cartigans/buy-15-ax-icon-logo-wool-sweater-8nym7b-ymh4z.html",
+        "__typename": "UrlRewrite"
+      },
+      {
+        "url": "women/buy-15-ax-icon-logo-wool-sweater-8nym7b-ymh4z.html",
+        "__typename": "UrlRewrite"
+      },
+      {
+        "url": "women/clothing/buy-15-ax-icon-logo-wool-sweater-8nym7b-ymh4z.html",
+        "__typename": "UrlRewrite"
+      }
+    ],
+    "price_range": {
+      "maximum_price": {
+        "final_price": {
+          "currency": "EUR",
+          "value": 72,
+          "__typename": "Money"
+        },
+        "regular_price": {
+          "currency": "EUR",
+          "value": 120,
+          "__typename": "Money"
+        },
+        "__typename": "ProductPrice"
+      },
+      "minimum_price": {
+        "final_price": {
+          "currency": "EUR",
+          "value": 72,
+          "__typename": "Money"
+        },
+        "regular_price": {
+          "currency": "EUR",
+          "value": 120,
+          "__typename": "Money"
+        },
+        "__typename": "ProductPrice"
+      },
+      "__typename": "PriceRange"
+    }
+  },
+  {
+    "__typename": "ConfigurableProduct",
+    "uid": "MTk5OTI=",
+    "sku": "8NYM7A-YMH4Z",
+    "name": "Armani Exchange Icon Logo Wool Sweater",
+    "stock_status": "IN_STOCK",
+    "only_x_left_in_stock": null,
+    "on_sale": true,
+    "thumbnail": {
+      "url": "https://dev.hudsonstore.com/media/catalog/product/placeholder/default/placeholder_test_2.jpg",
+      "position": null,
+      "disabled": null,
+      "label": "Armani Exchange Icon Logo Wool Sweater",
+      "__typename": "ProductImage"
+    },
+    "url_key": "buy-11-ax-icon-logo-wool-sweater-8nym7a-ymh4z",
+    "url_rewrites": [
+      {
+        "url": "buy-11-ax-icon-logo-wool-sweater-8nym7a-ymh4z.html",
+        "__typename": "UrlRewrite"
+      },
+      {
+        "url": "women/clothing/jumper-and-cartigans/buy-11-ax-icon-logo-wool-sweater-8nym7a-ymh4z.html",
+        "__typename": "UrlRewrite"
+      },
+      {
+        "url": "women/buy-11-ax-icon-logo-wool-sweater-8nym7a-ymh4z.html",
+        "__typename": "UrlRewrite"
+      },
+      {
+        "url": "women/clothing/buy-11-ax-icon-logo-wool-sweater-8nym7a-ymh4z.html",
+        "__typename": "UrlRewrite"
+      }
+    ],
+    "price_range": {
+      "maximum_price": {
+        "final_price": {
+          "currency": "EUR",
+          "value": 60,
+          "__typename": "Money"
+        },
+        "regular_price": {
+          "currency": "EUR",
+          "value": 110,
+          "__typename": "Money"
+        },
+        "__typename": "ProductPrice"
+      },
+      "minimum_price": {
+        "final_price": {
+          "currency": "EUR",
+          "value": 60,
+          "__typename": "Money"
+        },
+        "regular_price": {
+          "currency": "EUR",
+          "value": 110,
+          "__typename": "Money"
+        },
+        "__typename": "ProductPrice"
+      },
+      "__typename": "PriceRange"
+    }
+  },
+  {
+    "__typename": "ConfigurableProduct",
+    "uid": "MTg0OTk=",
+    "sku": "27082879",
+    "name": "Mango Oversize Knit Cardigan",
+    "stock_status": "IN_STOCK",
+    "only_x_left_in_stock": null,
+    "on_sale": false,
+    "thumbnail": {
+      "url": "https://dev.hudsonstore.com/media/catalog/product/placeholder/default/placeholder_test_2.jpg",
+      "position": null,
+      "disabled": null,
+      "label": "27082879-11_000_001",
+      "__typename": "ProductImage"
+    },
+    "url_key": "buy-8-mng-oversize-knit-cardigan-27082879",
+    "url_rewrites": [
+      {
+        "url": "buy-8-mng-oversize-knit-cardigan-27082879.html",
+        "__typename": "UrlRewrite"
+      },
+      {
+        "url": "women/clothing/jumper-and-cartigans/buy-8-mng-oversize-knit-cardigan-27082879.html",
+        "__typename": "UrlRewrite"
+      },
+      {
+        "url": "women/buy-8-mng-oversize-knit-cardigan-27082879.html",
+        "__typename": "UrlRewrite"
+      },
+      {
+        "url": "women/clothing/buy-8-mng-oversize-knit-cardigan-27082879.html",
+        "__typename": "UrlRewrite"
+      }
+    ],
+    "price_range": {
+      "maximum_price": {
+        "final_price": {
+          "currency": "EUR",
+          "value": 32.49,
+          "__typename": "Money"
+        },
+        "regular_price": {
+          "currency": "EUR",
+          "value": 49.99,
+          "__typename": "Money"
+        },
+        "__typename": "ProductPrice"
+      },
+      "minimum_price": {
+        "final_price": {
+          "currency": "EUR",
+          "value": 32.49,
+          "__typename": "Money"
+        },
+        "regular_price": {
+          "currency": "EUR",
+          "value": 49.99,
+          "__typename": "Money"
+        },
+        "__typename": "ProductPrice"
+      },
+      "__typename": "PriceRange"
+    }
+  },
+  {
+    "__typename": "ConfigurableProduct",
+    "uid": "MTgzNTI=",
+    "sku": "27072881",
+    "name": "Mango Ribbed Knit Cardigan",
+    "stock_status": "IN_STOCK",
+    "only_x_left_in_stock": null,
+    "thumbnail": {
+      "url": "https://dev.hudsonstore.com/media/catalog/product/cache/bf2bc167b9be85d8d72940f44bdd41b2/_/c/_c_1_c138c3758eea821e42ce9d697b9ed20e2e08e88fd045baa80f05814ebea27ddc.jpeg",
+      "position": null,
+      "disabled": null,
+      "label": "27072881-11_000_001",
+      "__typename": "ProductImage"
+    },
+    "url_key": "buy-7-mng-ribbed-knit-cardigan-27072881",
+    "url_rewrites": [
+      {
+        "url": "buy-7-mng-ribbed-knit-cardigan-27072881.html",
+        "__typename": "UrlRewrite"
+      },
+      {
+        "url": "women/clothing/jumper-and-cartigans/buy-7-mng-ribbed-knit-cardigan-27072881.html",
+        "__typename": "UrlRewrite"
+      },
+      {
+        "url": "women/buy-7-mng-ribbed-knit-cardigan-27072881.html",
+        "__typename": "UrlRewrite"
+      },
+      {
+        "url": "women/clothing/buy-7-mng-ribbed-knit-cardigan-27072881.html",
+        "__typename": "UrlRewrite"
+      }
+    ],
+    "price_range": {
+      "maximum_price": {
+        "final_price": {
+          "currency": "EUR",
+          "value": 19.49,
+          "__typename": "Money"
+        },
+        "regular_price": {
+          "currency": "EUR",
+          "value": 29.99,
+          "__typename": "Money"
+        },
+        "__typename": "ProductPrice"
+      },
+      "minimum_price": {
+        "final_price": {
+          "currency": "EUR",
+          "value": 19.49,
+          "__typename": "Money"
+        },
+        "regular_price": {
+          "currency": "EUR",
+          "value": 29.99,
+          "__typename": "Money"
+        },
+        "__typename": "ProductPrice"
+      },
+      "__typename": "PriceRange"
+    }
+  },
+  {
+    "__typename": "ConfigurableProduct",
+    "uid": "MTgzMDI=",
+    "sku": "27062880",
+    "name": "Mango Knit Striped Sweater",
+    "stock_status": "IN_STOCK",
+    "only_x_left_in_stock": null,
+    "thumbnail": {
+      "url": "https://dev.hudsonstore.com/media/catalog/product/cache/bf2bc167b9be85d8d72940f44bdd41b2/_/3/_3_a_3ad38eebfb0ec5663221e0aee8829f4b46212cb17d140ae748b5df0885df8079.jpeg",
+      "position": null,
+      "disabled": null,
+      "label": "27062880-20_000_001",
+      "__typename": "ProductImage"
+    },
+    "url_key": "buy-8-mng-knit-striped-sweater-27062880",
+    "url_rewrites": [
+      {
+        "url": "buy-8-mng-knit-striped-sweater-27062880.html",
+        "__typename": "UrlRewrite"
+      },
+      {
+        "url": "women/clothing/jumper-and-cartigans/buy-8-mng-knit-striped-sweater-27062880.html",
+        "__typename": "UrlRewrite"
+      },
+      {
+        "url": "women/buy-8-mng-knit-striped-sweater-27062880.html",
+        "__typename": "UrlRewrite"
+      },
+      {
+        "url": "women/clothing/buy-8-mng-knit-striped-sweater-27062880.html",
+        "__typename": "UrlRewrite"
+      }
+    ],
+    "price_range": {
+      "maximum_price": {
+        "final_price": {
+          "currency": "EUR",
+          "value": 32.49,
+          "__typename": "Money"
+        },
+        "regular_price": {
+          "currency": "EUR",
+          "value": 49.99,
+          "__typename": "Money"
+        },
+        "__typename": "ProductPrice"
+      },
+      "minimum_price": {
+        "final_price": {
+          "currency": "EUR",
+          "value": 32.49,
+          "__typename": "Money"
+        },
+        "regular_price": {
+          "currency": "EUR",
+          "value": 49.99,
+          "__typename": "Money"
+        },
+        "__typename": "ProductPrice"
+      },
+      "__typename": "PriceRange"
+    }
+  },
+  {
+    "__typename": "ConfigurableProduct",
+    "uid": "MTg3MDY=",
+    "sku": "J20J219917",
+    "name": "Calvin Klein Jeans Ribbed Milano Sweatshirt",
+    "stock_status": "IN_STOCK",
+    "only_x_left_in_stock": null,
+    "on_sale": true,
+    "thumbnail": {
+      "url": "https://dev.hudsonstore.com/media/catalog/product/cache/bf2bc167b9be85d8d72940f44bdd41b2/_/f/_f_0_f0ad55c6b872684b7f865eca39534286cc4c8969bfafb340dc40b01878c46cda.jpeg",
+      "position": null,
+      "disabled": null,
+      "label": "J20J219917-RB8_000_001",
+      "__typename": "ProductImage"
+    },
+    "url_key": "buy-14-ckj-ribbed-milano-sweatshirt-j20j219917",
+    "url_rewrites": [
+      {
+        "url": "buy-14-ckj-ribbed-milano-sweatshirt-j20j219917.html",
+        "__typename": "UrlRewrite"
+      },
+      {
+        "url": "women/clothing/jumper-and-cartigans/buy-14-ckj-ribbed-milano-sweatshirt-j20j219917.html",
+        "__typename": "UrlRewrite"
+      },
+      {
+        "url": "women/buy-14-ckj-ribbed-milano-sweatshirt-j20j219917.html",
+        "__typename": "UrlRewrite"
+      },
+      {
+        "url": "women/clothing/buy-14-ckj-ribbed-milano-sweatshirt-j20j219917.html",
+        "__typename": "UrlRewrite"
+      }
+    ],
+    "price_range": {
+      "maximum_price": {
+        "final_price": {
+          "currency": "EUR",
+          "value": 53.94,
+          "__typename": "Money"
+        },
+        "regular_price": {
+          "currency": "EUR",
+          "value": 89.9,
+          "__typename": "Money"
+        },
+        "__typename": "ProductPrice"
+      },
+      "minimum_price": {
+        "final_price": {
+          "currency": "EUR",
+          "value": 53.94,
+          "__typename": "Money"
+        },
+        "regular_price": {
+          "currency": "EUR",
+          "value": 89.9,
+          "__typename": "Money"
+        },
+        "__typename": "ProductPrice"
+      },
+      "__typename": "PriceRange"
+    }
+  },
+  {
+    "__typename": "ConfigurableProduct",
+    "uid": "MTg2ODU=",
+    "sku": "J20J218986",
+    "name": "Calvin Klein Jeans Glossy Monogram Hoodie",
+    "stock_status": "IN_STOCK",
+    "only_x_left_in_stock": null,
+    "on_sale": true,
+    "thumbnail": {
+      "url": "https://dev.hudsonstore.com/media/catalog/product/cache/bf2bc167b9be85d8d72940f44bdd41b2/_/d/_d_b_dbeaea89eea2da640e5167253073f7b0338b7330f7a026dd92cf757a500b38e6.jpeg",
+      "position": null,
+      "disabled": null,
+      "label": "J20J218986-TKY_000_001",
+      "__typename": "ProductImage"
+    },
+    "url_key": "buy-12-ckj-glossy-monogram-hoodie-j20j218986",
+    "url_rewrites": [
+      {
+        "url": "buy-12-ckj-glossy-monogram-hoodie-j20j218986.html",
+        "__typename": "UrlRewrite"
+      },
+      {
+        "url": "women/clothing/jumper-and-cartigans/buy-12-ckj-glossy-monogram-hoodie-j20j218986.html",
+        "__typename": "UrlRewrite"
+      },
+      {
+        "url": "women/buy-12-ckj-glossy-monogram-hoodie-j20j218986.html",
+        "__typename": "UrlRewrite"
+      },
+      {
+        "url": "women/clothing/buy-12-ckj-glossy-monogram-hoodie-j20j218986.html",
+        "__typename": "UrlRewrite"
+      }
+    ],
+    "price_range": {
+      "maximum_price": {
+        "final_price": {
+          "currency": "EUR",
+          "value": 65.94,
+          "__typename": "Money"
+        },
+        "regular_price": {
+          "currency": "EUR",
+          "value": 109.9,
+          "__typename": "Money"
+        },
+        "__typename": "ProductPrice"
+      },
+      "minimum_price": {
+        "final_price": {
+          "currency": "EUR",
+          "value": 65.94,
+          "__typename": "Money"
+        },
+        "regular_price": {
+          "currency": "EUR",
+          "value": 109.9,
+          "__typename": "Money"
+        },
+        "__typename": "ProductPrice"
+      },
+      "__typename": "PriceRange"
+    }
+  },
+  {
+    "__typename": "ConfigurableProduct",
+    "uid": "MTg2NzU=",
+    "sku": "J20J218751",
+    "name": "Calvin Klein Jeansboxy Monogram Sweatshirt",
+    "stock_status": "IN_STOCK",
+    "only_x_left_in_stock": null,
+    "on_sale": false,
+    "thumbnail": {
+      "url": "https://dev.hudsonstore.com/media/catalog/product/cache/bf2bc167b9be85d8d72940f44bdd41b2/_/0/_0_2_02fc8e8f64df3761495d1d958aa514f614e2579a78cc60fbf856cf25af7588bd.jpeg",
+      "position": null,
+      "disabled": null,
+      "label": "J20J218751-ZCU_000_001",
+      "__typename": "ProductImage"
+    },
+    "url_key": "buy-9-ckj-boxy-monogram-sweatshirt-j20j218751",
+    "url_rewrites": [
+      {
+        "url": "buy-9-ckj-boxy-monogram-sweatshirt-j20j218751.html",
+        "__typename": "UrlRewrite"
+      },
+      {
+        "url": "women/clothing/jumper-and-cartigans/buy-9-ckj-boxy-monogram-sweatshirt-j20j218751.html",
+        "__typename": "UrlRewrite"
+      },
+      {
+        "url": "women/buy-9-ckj-boxy-monogram-sweatshirt-j20j218751.html",
+        "__typename": "UrlRewrite"
+      },
+      {
+        "url": "women/clothing/buy-9-ckj-boxy-monogram-sweatshirt-j20j218751.html",
+        "__typename": "UrlRewrite"
+      }
+    ],
+    "price_range": {
+      "maximum_price": {
+        "final_price": {
+          "currency": "EUR",
+          "value": 59.94,
+          "__typename": "Money"
+        },
+        "regular_price": {
+          "currency": "EUR",
+          "value": 99.9,
+          "__typename": "Money"
+        },
+        "__typename": "ProductPrice"
+      },
+      "minimum_price": {
+        "final_price": {
+          "currency": "EUR",
+          "value": 59.94,
+          "__typename": "Money"
+        },
+        "regular_price": {
+          "currency": "EUR",
+          "value": 99.9,
+          "__typename": "Money"
+        },
+        "__typename": "ProductPrice"
+      },
+      "__typename": "PriceRange"
+    }
+  },
+  {
+    "__typename": "ConfigurableProduct",
+    "uid": "MTg2MjQ=",
+    "sku": "J20J217913",
+    "name": "Calvin Klein Jean Oversized Embossed Logo Hoodie",
+    "stock_status": "IN_STOCK",
+    "only_x_left_in_stock": null,
+    "on_sale": true,
+    "thumbnail": {
+      "url": "https://dev.hudsonstore.com/media/catalog/product/cache/bf2bc167b9be85d8d72940f44bdd41b2/_/4/_4_2_4291bec9adedc3618d942211ddd461d5292041ad54b1798ceeac1e9f2def4c46.jpeg",
+      "position": null,
+      "disabled": null,
+      "label": "J20J217913-YAF_000_001",
+      "__typename": "ProductImage"
+    },
+    "url_key": "buy-5-ckj-oversized-embossed-logo-hoodie-j20j217913",
+    "url_rewrites": [
+      {
+        "url": "buy-5-ckj-oversized-embossed-logo-hoodie-j20j217913.html",
+        "__typename": "UrlRewrite"
+      },
+      {
+        "url": "women/clothing/jumper-and-cartigans/buy-5-ckj-oversized-embossed-logo-hoodie-j20j217913.html",
+        "__typename": "UrlRewrite"
+      },
+      {
+        "url": "women/buy-5-ckj-oversized-embossed-logo-hoodie-j20j217913.html",
+        "__typename": "UrlRewrite"
+      },
+      {
+        "url": "women/clothing/buy-5-ckj-oversized-embossed-logo-hoodie-j20j217913.html",
+        "__typename": "UrlRewrite"
+      }
+    ],
+    "price_range": {
+      "maximum_price": {
+        "final_price": {
+          "currency": "EUR",
+          "value": 77.94,
+          "__typename": "Money"
+        },
+        "regular_price": {
+          "currency": "EUR",
+          "value": 129.9,
+          "__typename": "Money"
+        },
+        "__typename": "ProductPrice"
+      },
+      "minimum_price": {
+        "final_price": {
+          "currency": "EUR",
+          "value": 77.94,
+          "__typename": "Money"
+        },
+        "regular_price": {
+          "currency": "EUR",
+          "value": 129.9,
+          "__typename": "Money"
+        },
+        "__typename": "ProductPrice"
+      },
+      "__typename": "PriceRange"
+    }
+  }
+]
